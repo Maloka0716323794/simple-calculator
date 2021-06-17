@@ -27,7 +27,7 @@ This simple calculator can do only addition, subtraction, multiplication, divisi
 
 - HTML
 - CSS
-- Fontawesome
+- Javascript
 
 ## Getting Started
 
