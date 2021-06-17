@@ -3,23 +3,23 @@
 This program is a simple calculator that performs simple arithmetic operations on numbers. 
 This simple calculator can do only addition, subtraction, multiplication, division and remainder.
 
-##### In the simple calculator program, the add function is used to find the sum of two numbers.
+#### In the simple calculator program, the add function is used to find the sum of two numbers.
 - The function is declared with two parameters x and y.
 - The function is called using its name and passing two arguments 5 and 3 in and the total is of two values is displayed in the console.
 
-### The second fuction which is, subtract function is used to find the difference of two numbers.
+#### The second fuction which is, subtract function is used to find the difference of two numbers.
 - The function is declared with two parameters x and y.
 - The function is called using its name and passing two arguments 20 and 7 in and the total is of two values is displayed in the console.
 
-### The third fuction which is, multiply function is used to find the product of two numbers.
+#### The third fuction which is, multiply function is used to find the product of two numbers.
 - The function is declared with two parameters x and y.
 - The function is called using its name and passing two arguments 8 and 4 in and the total is of two values is displayed in the console.
 
-### The fourth fuction which is, divide function is used to find the quotient 2 of two numbers.
+#### The fourth fuction which is, divide function is used to find the quotient 2 of two numbers.
 - The function is declared with two parameters x and y.
 - The function is called using its name and passing two arguments 8 and 4 in and the total is of two values is displayed in the console.
 
-### The fifth fuction which is, modulus function is used to find the remainder of two numbers.
+#### The fifth fuction which is, modulus function is used to find the remainder of two numbers.
 - The function is declared with two parameters x and y.
 - The function is called using its name and passing two arguments 17 and 4 in and the total is of two values is displayed in the console.
 
